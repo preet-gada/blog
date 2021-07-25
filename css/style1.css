@@ -292,7 +292,6 @@ nav div ul li .active:target {
 	font-size: 14px;
 	background: #cb9558;
 	padding: 4px 8px;
-	box-sizing: border-box;
 }
 
 
@@ -584,6 +583,15 @@ table,tr,td{
 	.meta-container{
 		padding-left: 10px;
 	}
+	
+	.sidebar-title h4 span{
+		color: white;
+		text-transform: uppercase;
+		font-weight: 400;
+		font-size: 14px;
+		background: #cb9558;
+		padding: 5px 8px;
+		}
 
 	.block{
 		width: 46%;
