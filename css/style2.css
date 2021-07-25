@@ -598,6 +598,7 @@ table,tr,td{
 	}
 	.post-info{
 		margin-top: -50px;
+		padding: 10px 20px;
 	}
 	.block-title{
 		font-size: 24px;
@@ -616,6 +617,9 @@ table,tr,td{
 	}
 	.sidebar-title{
 		margin-bottom: 20px;
+		
+	}
+	.sidebar-title{
 		padding-bottom: 3px;
 	}
 	.categories,.social-sidebar{
