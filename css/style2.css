@@ -605,6 +605,13 @@ table,tr,td{
 		font-weight: 400;
 		margin-bottom: 7px;
 	}
+	
+	.block-meta span:nth-of-type(2){
+		display: block;
+    		padding-top: 7px;
+    		padding-left: 0px;
+	}
+	
 	.block-meta span{
 		font-size: 12px;
 	}
